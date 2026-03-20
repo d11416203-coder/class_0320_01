@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\新增資料夾\0320a\bin\Debug\net10.0\0320a.exe
+C:\Users\Administrator\Desktop\新增資料夾\0320a\bin\Debug\net10.0\0320a.deps.json
+C:\Users\Administrator\Desktop\新增資料夾\0320a\bin\Debug\net10.0\0320a.runtimeconfig.json
+C:\Users\Administrator\Desktop\新增資料夾\0320a\bin\Debug\net10.0\0320a.dll
+C:\Users\Administrator\Desktop\新增資料夾\0320a\bin\Debug\net10.0\0320a.pdb
+C:\Users\Administrator\Desktop\新增資料夾\0320a\obj\Debug\net10.0\0320a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\新增資料夾\0320a\obj\Debug\net10.0\0320a.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\新增資料夾\0320a\obj\Debug\net10.0\0320a.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\新增資料夾\0320a\obj\Debug\net10.0\0320a.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\新增資料夾\0320a\obj\Debug\net10.0\0320a.dll
+C:\Users\Administrator\Desktop\新增資料夾\0320a\obj\Debug\net10.0\refint\0320a.dll
+C:\Users\Administrator\Desktop\新增資料夾\0320a\obj\Debug\net10.0\0320a.pdb
+C:\Users\Administrator\Desktop\新增資料夾\0320a\obj\Debug\net10.0\0320a.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\新增資料夾\0320a\obj\Debug\net10.0\ref\0320a.dll
